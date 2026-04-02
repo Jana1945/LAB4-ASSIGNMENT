@@ -19,7 +19,7 @@
    
    <img width="311" height="417" alt="image" src="https://github.com/user-attachments/assets/19e7747e-333b-4b04-a55b-fa2ef2488675" />
 
-<After handling missing values, all columns now contain complete data with no null values. The dataset is clean and ready for further analysis.>
+After handling missing values, all columns now contain complete data with no null values. The dataset is clean and ready for further analysis.
 
 # Visualization
 
