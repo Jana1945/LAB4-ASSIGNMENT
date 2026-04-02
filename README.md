@@ -23,6 +23,24 @@
 
 # Visualization
 
+<img width="1234" height="853" alt="image" src="https://github.com/user-attachments/assets/c78ebd41-7c7f-4afd-8897-162e3523dbab" />
+
+The Age distribution shows that most passengers are between 20 and 40 years old.
+The data appears to follow a roughly normal distribution with fewer passengers at very young and older ages.
+
+<img width="1306" height="885" alt="image" src="https://github.com/user-attachments/assets/418fbb93-4ac5-4e27-a508-146c677d51e5" />
+
+The Fare boxplot reveals the presence of several outliers, indicating extreme values. Most ticket prices are relatively low, but a few passengers paid significantly higher fares.
+
+# outlier 
+The dataset contains outliers in the Fare column, which may influence statistical analysis and model performance.
+
+# Final Conclusion
+The dataset was successfully preprocessed by handling missing values, removing irrelevant features and ensuring data consistency. Data visualization helped in understanding the distribution and identifying outliers. 
+The dataset is now clean and ready for machine learning tasks.
+
+
+
    
 
    
