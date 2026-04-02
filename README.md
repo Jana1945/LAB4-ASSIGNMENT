@@ -32,7 +32,7 @@ The data appears to follow a roughly normal distribution with fewer passengers a
 
 The Fare boxplot reveals the presence of several outliers, indicating extreme values. Most ticket prices are relatively low, but a few passengers paid significantly higher fares.
 
-# outlier 
+## Outliers
 The dataset contains outliers in the Fare column, which may influence statistical analysis and model performance.
 
 # Final Conclusion
